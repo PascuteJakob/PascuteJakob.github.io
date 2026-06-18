@@ -1,5 +1,9 @@
 .small-img {
+	width: 100%;
 	max-width: 960px;
 	height: auto;
+}
+#content {
+	margin-left: 0.5%;
 }
 
